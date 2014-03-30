@@ -1,0 +1,15 @@
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\bin\Debug\MiniTrello.Data.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\bin\Debug\MiniTrello.Data.pdb
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\bin\Debug\AcklenAvenue.Data.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\bin\Debug\AcklenAvenue.Data.NHibernate.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\bin\Debug\FluentNHibernate.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\bin\Debug\MiniTrello.Domain.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\bin\Debug\NHibernate.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\bin\Debug\MiniTrello.Domain.pdb
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\bin\Debug\FluentNHibernate.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\bin\Debug\Iesi.Collections.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\bin\Debug\NHibernate.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\obj\Debug\MiniTrello.Data.csprojResolveAssemblyReference.cache
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\obj\Debug\MiniTrello.Data.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Data\obj\Debug\MiniTrello.Data.pdb

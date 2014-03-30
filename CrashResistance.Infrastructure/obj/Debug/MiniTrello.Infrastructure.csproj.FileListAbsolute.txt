@@ -1,0 +1,203 @@
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Infrastructure.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Infrastructure.pdb
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\AcklenAvenue.Data.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\AcklenAvenue.Data.NHibernate.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Mvc.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\Autofac.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\FluentNHibernate.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\Iesi.Collections.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\log4net.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Data.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\NHibernate.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\System.Web.Helpers.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\System.Web.Razor.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\System.Web.WebPages.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\WebActivator.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Domain.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Data.pdb
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Mvc.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\Autofac.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\FluentNHibernate.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\Iesi.Collections.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\log4net.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\NHibernate.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Domain.pdb
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\obj\Debug\MiniTrello.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\obj\Debug\MiniTrello.Infrastructure.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiniTrello.Infrastructure\obj\Debug\MiniTrello.Infrastructure.pdb
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Infrastructure.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Infrastructure.pdb
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\AcklenAvenue.Data.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\AcklenAvenue.Data.NHibernate.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Mvc.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\Autofac.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\FluentNHibernate.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\Iesi.Collections.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\log4net.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Data.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\NHibernate.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\System.Web.Helpers.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\System.Web.Razor.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\System.Web.WebPages.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\WebActivator.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Domain.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Data.pdb
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Mvc.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\Autofac.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\FluentNHibernate.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\Iesi.Collections.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\log4net.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\NHibernate.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\WebActivator.pdb
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Domain.pdb
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\obj\Debug\MiniTrello.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\obj\Debug\MiniTrello.Infrastructure.dll
+C:\Users\TECNOCOMP\Documents\GitHub\MiniTrelloWindowsPhone\MiniTrello.Infrastructure\obj\Debug\MiniTrello.Infrastructure.pdb
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Infrastructure.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Infrastructure.pdb
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\AcklenAvenue.Data.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\AcklenAvenue.Data.NHibernate.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Mvc.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\Autofac.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\FluentNHibernate.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\Iesi.Collections.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\log4net.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Data.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\NHibernate.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\System.Web.Helpers.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\System.Web.Razor.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\System.Web.WebPages.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\WebActivator.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Domain.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Data.pdb
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Mvc.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\Autofac.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\FluentNHibernate.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\Iesi.Collections.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\log4net.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\NHibernate.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\WebActivator.pdb
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Domain.pdb
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\obj\Debug\MiniTrello.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\obj\Debug\MiniTrello.Infrastructure.dll
+C:\Users\TECNOCOMP\Desktop\New folder\MiniTrello.Infrastructure\obj\Debug\MiniTrello.Infrastructure.pdb
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Infrastructure.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Infrastructure.pdb
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\AcklenAvenue.Data.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\AcklenAvenue.Data.NHibernate.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Mvc.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\Autofac.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\FluentNHibernate.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\Iesi.Collections.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\log4net.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Data.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\NHibernate.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\System.Web.Helpers.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\System.Web.Razor.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\System.Web.WebPages.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\WebActivator.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Domain.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Data.pdb
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\AttributeRouting.Web.Mvc.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\Autofac.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\FluentNHibernate.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\Iesi.Collections.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\log4net.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\NHibernate.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\WebActivator.pdb
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\bin\Debug\MiniTrello.Domain.pdb
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\obj\Debug\MiniTrello.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\obj\Debug\MiniTrello.Infrastructure.dll
+C:\Users\TECNOCOMP\Documents\GitHub\CrashResitance\MiniTrello.Infrastructure\obj\Debug\MiniTrello.Infrastructure.pdb

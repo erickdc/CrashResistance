@@ -1,0 +1,7 @@
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiTrello.Domain\bin\Debug\MiniTrello.Domain.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiTrello.Domain\bin\Debug\MiniTrello.Domain.pdb
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiTrello.Domain\bin\Debug\RestSharp.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiTrello.Domain\bin\Debug\RestSharp.xml
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiTrello.Domain\obj\Debug\MiniTrello.Domain.csprojResolveAssemblyReference.cache
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiTrello.Domain\obj\Debug\MiniTrello.Domain.dll
+C:\Users\TECNOCOMP\Desktop\PROYECTO\minitrello-master\MiTrello.Domain\obj\Debug\MiniTrello.Domain.pdb
