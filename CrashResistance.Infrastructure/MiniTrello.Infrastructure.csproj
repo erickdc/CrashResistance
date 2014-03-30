@@ -140,7 +140,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MiniTrello.Data\CrashResistance.Data.csproj">
+    <ProjectReference Include="..\CrashResistance.Data\CrashResistance.Data.csproj">
       <Project>{A854B59C-A908-4926-8CC5-FB4277F3B4DB}</Project>
       <Name>CrashResistance.Data</Name>
     </ProjectReference>
